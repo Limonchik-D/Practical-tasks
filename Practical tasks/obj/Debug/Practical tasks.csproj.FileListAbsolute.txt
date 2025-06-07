@@ -1,0 +1,8 @@
+C:\Users\Limon\source\repos\Practical tasks\bin\Debug\Practical tasks.exe.config
+C:\Users\Limon\source\repos\Practical tasks\bin\Debug\Practical tasks.exe
+C:\Users\Limon\source\repos\Practical tasks\bin\Debug\Practical tasks.pdb
+C:\Users\Limon\source\repos\Practical tasks\obj\Debug\Practical tasks.csproj.AssemblyReference.cache
+C:\Users\Limon\source\repos\Practical tasks\obj\Debug\Practical tasks.csproj.CoreCompileInputs.cache
+C:\Users\Limon\source\repos\Practical tasks\obj\Debug\Practical tasks.exe
+C:\Users\Limon\source\repos\Practical tasks\obj\Debug\Practical tasks.pdb
+C:\Users\Limon\source\repos\Practical tasks\obj\Debug\Practical tasks.exe.config
