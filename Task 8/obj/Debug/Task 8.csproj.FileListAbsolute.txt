@@ -1,0 +1,7 @@
+C:\Users\Limon\source\repos\Task 8\bin\Debug\Task 8.exe.config
+C:\Users\Limon\source\repos\Task 8\bin\Debug\Task 8.exe
+C:\Users\Limon\source\repos\Task 8\bin\Debug\Task 8.pdb
+C:\Users\Limon\source\repos\Task 8\obj\Debug\Task 8.csproj.AssemblyReference.cache
+C:\Users\Limon\source\repos\Task 8\obj\Debug\Task 8.csproj.CoreCompileInputs.cache
+C:\Users\Limon\source\repos\Task 8\obj\Debug\Task 8.exe
+C:\Users\Limon\source\repos\Task 8\obj\Debug\Task 8.pdb
