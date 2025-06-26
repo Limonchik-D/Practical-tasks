@@ -1,0 +1,7 @@
+C:\Users\Limon\source\repos\Task 15\bin\Debug\Task 15.exe.config
+C:\Users\Limon\source\repos\Task 15\bin\Debug\Task 15.exe
+C:\Users\Limon\source\repos\Task 15\bin\Debug\Task 15.pdb
+C:\Users\Limon\source\repos\Task 15\obj\Debug\Task 15.csproj.AssemblyReference.cache
+C:\Users\Limon\source\repos\Task 15\obj\Debug\Task 15.csproj.CoreCompileInputs.cache
+C:\Users\Limon\source\repos\Task 15\obj\Debug\Task 15.exe
+C:\Users\Limon\source\repos\Task 15\obj\Debug\Task 15.pdb
